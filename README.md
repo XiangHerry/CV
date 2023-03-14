@@ -1,2 +1,2 @@
 # CV
-My resume in html
+This is a direct version of my resume in html.
